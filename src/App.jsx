@@ -1,3 +1,4 @@
+import Charts from "./Components/Charts/Charts";
 import Form from "./Components/Forms/Form";
 import Login from "./Components/Login/Login";
 
@@ -8,6 +9,7 @@ function App() {
       {/*}<Botones/>{*/}
       <Form/>
       <Login/>
+      <Charts/>
       
     </>
   );
