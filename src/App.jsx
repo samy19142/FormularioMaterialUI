@@ -1,6 +1,5 @@
 import "./App.css";
-import Botones from "./Components/Botones";
-import Form from "./Components/Form";
+import Form from "./Components/Forms/Form";
 
 
 function App() {
